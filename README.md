@@ -1,3 +1,13 @@
+[![pipeline status](https://gitlab.getweave.com/weave-lab/comm/sipparser/badges/master/pipeline.svg)](https://gitlab.getweave.com/weave-lab/comm/sipparser/commits/master)
+[![coverage report](https://gitlab.getweave.com/weave-lab/comm/sipparser/badges/master/coverage.svg)](https://gitlab.getweave.com/weave-lab/comm/sipparser/commits/master)
+
+## Installation
+```bash
+go get weavelab.xyz/sipparser
+```
+
+For more information on `weavelab.xyz`, see the projects [readme](https://gitlab.getweave.com/weave-lab/ops/xyz/blob/master/README.md).
+
 # sipparser ![Build Status](https://drone.io/github.com/danielvargas/sipparser/status.png)
 
     import "github.com/danielvargas/sipparser"
